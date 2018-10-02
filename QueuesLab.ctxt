@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QueuesLab
+comment1.params=
+comment1.target=QueuesLab()
+comment2.params=obj
+comment2.target=void\ addToQueue(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ removeFromQueue()
+comment4.params=obj
+comment4.target=void\ addVIPToQueue(java.lang.String)
+comment5.params=
+comment5.target=void\ printList()
+numComments=6
